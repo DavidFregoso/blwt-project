@@ -1,0 +1,10 @@
+# --- BLWT portable: ignorar binarios y modelos grandes
+dist/
+build/
+ffmpeg/
+whisper_models/
+*.exe
+*.zip
+*.pt
+*.pyc
+__pycache__/

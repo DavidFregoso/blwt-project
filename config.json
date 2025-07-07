@@ -1,0 +1,4 @@
+{
+  "default_model": "medium",
+  "update_check_url": "https://www.blueberrieslab.com/blwt-update.json"
+}
